@@ -10,5 +10,6 @@ int main(){
     sum = num1 + num2;
     printf("%d + %d = %d\n", num1, num2, sum);
     printf("That was the adding two number program.\n");
+    printf("It's another line\n");
     return 0;
 }
